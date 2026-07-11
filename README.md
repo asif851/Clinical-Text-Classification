@@ -38,4 +38,3 @@ The goal of this project is to classify medical transcriptions into their corres
 ## Author
 Maria Rahman
 
-Update README
